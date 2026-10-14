@@ -31,9 +31,9 @@ Additional improvements, optimizations, and features may be introduced as develo
 
 This project is currently in its early stages.
 
-- [ ] Performance optimization
-- [ ] Faster video startup
-- [ ] Improved seeking and buffering
+- [x] Performance optimization
+- [x] Faster video startup
+- [x] Improved seeking and buffering
 - [ ] Modernized Google TV-inspired interface
 - [ ] Updated video player
 - [ ] Testing and stability improvements
