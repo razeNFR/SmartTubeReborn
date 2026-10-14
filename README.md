@@ -1,4 +1,4 @@
-# SmartTube Enhanced 🚀
+# SmartTube Reborn 🚀
 
 **A performance-focused fork of SmartTube, designed to make YouTube faster, smoother, and more modern on Android TV.**
 
