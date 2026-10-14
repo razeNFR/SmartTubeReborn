@@ -34,8 +34,8 @@ This project is currently under active development.
 - [x] Performance optimization
 - [x] Faster video startup
 - [x] Improved seeking and buffering
-- [ ] Modernized Google TV-inspired interface
-- [ ] Updated video player
+- [X] Modernized Google TV-inspired interface
+- [X] Updated video player
 - [ ] Testing and stability improvements
 - [ ] First public build
 
